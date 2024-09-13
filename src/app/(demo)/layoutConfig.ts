@@ -1,4 +1,4 @@
 export const pagesWithoutLayout = [
-  "/dashboard/detail"
+  "/dashboard/"
   // Add other paths here as needed
 ];
